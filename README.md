@@ -1,2 +1,3 @@
 # CopperModelling
-Industrial Copper Modelling Project
+Industrial Copper Modelling Project using Python.
+
